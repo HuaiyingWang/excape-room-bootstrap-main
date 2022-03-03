@@ -1,0 +1,8 @@
+.index-view{
+    margin-left: 0;
+    margin-right:0
+}
+
+.index-view .card{
+    height: 100%;
+}
